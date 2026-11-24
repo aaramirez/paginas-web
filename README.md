@@ -1,6 +1,6 @@
 # Páginas web
 
-Cómo llega una página a tu pantalla y cómo se hace una: HTML semántico, CSS, Flexbox y Grid, diseño adaptable, accesibilidad, formularios y publicar gratis un sitio estático.
+Cómo llega una página a tu pantalla y cómo se hace una: HTML semántico, CSS, Flexbox y Grid, diseño adaptable, accesibilidad, formularios, publicar gratis un sitio estático y que Google lo encuentre y se vea bien al compartirlo.
 
 **Ver en línea:** https://aaramirez.github.io/paginas-web/
 
@@ -18,3 +18,4 @@ Este repositorio solo tiene el sitio generado. El curso está en preparación: l
 | 08 | Accesibilidad del marcado |
 | 09 | Formularios en HTML puro |
 | 10 | Publicar gratis un sitio estático |
+| 11 | Que Google te encuentre y se vea bien al compartir |
